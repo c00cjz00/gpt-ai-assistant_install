@@ -3,7 +3,7 @@
 git clone https://github.com/c00cjz00/gpt-ai-assistant_install.git ~/gpt-ai-assistant_install
 ```
 
-### 2. 取得 Webhook URL
+### 2. 取得 Webhook URL (僅使用台灣杉HPC需要)
 ```
 %%bash
 node_ip=$(cat /etc/hosts |grep $(hostname).nchc.opa | awk '{print $1}' ); 
