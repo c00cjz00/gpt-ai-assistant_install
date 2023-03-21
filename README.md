@@ -1,6 +1,6 @@
 ### 1. 下載執行程式
 ```
-git clone https://github.com/c00cjz00/gpt-ai-assistant_install.git
+git clone https://github.com/c00cjz00/gpt-ai-assistant_install.git ~/gpt-ai-assistant_install
 ```
 
 ### 2. 取得 Webhook URL
