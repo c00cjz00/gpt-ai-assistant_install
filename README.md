@@ -16,7 +16,7 @@ echo "Webhook URL: https://node02.biobank.org.tw/redirect/${node_ip}/${node_port
 - LINE_CHANNEL_ACCESS_TOKEN=請填寫  (申請位置: https://developers.line.biz/)
 - LINE_CHANNEL_SECRET=請填寫  (申請位置: https://developers.line.biz/)
 
-### 4. 安裝及啟動
+### 4. 安裝及啟動 (直接打開 install.ipynb執行)
 ```
 %%bash
 ## 安裝位置 (填寫你目前git clone下來的位置)
